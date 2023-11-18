@@ -1,0 +1,10 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 8,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Dark Crayon.sublime-color-scheme",
+	"word_wrap": false,
+}

@@ -1,0 +1,1381 @@
+{
+	"file_history":
+	[
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Accounts.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/accounts.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Establishments.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/MetaClass.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Product.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/establishments.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.js",
+		"/M/downloads/sublime_text_4/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/M/downloads/sublime_text_4/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/milto/AppData/Local/Temp/Rar$DIa11256.8809/Default (Windows).sublime-keymap",
+		"/M/downloads/sublime_text_4/Data/Packages/Default/Preferences.sublime-settings",
+		"/M/downloads/sublime_text_4/Data/Packages/User/Preferences.sublime-settings",
+		"/M/downloads/sublime_text_4/Data/Packages/Terminus/Default.sublime-keymap",
+		"/M/downloads/sublime_text_4/Data/Packages/Terminus/Terminus.sublime-settings",
+		"/M/downloads/sublime_text_4/Data/Packages/User/Terminus.sublime-settings"
+	],
+	"folder_history":
+	[
+		"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu"
+	],
+	"last_version": 4152,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"next_update_check": 1699816328,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			-32000.0,
+			-32000.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"st",
+						"style"
+					],
+					[
+						"es",
+						"establishment"
+					],
+					[
+						"acc",
+						"account"
+					],
+					[
+						"array_fil",
+						"array_filter"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
+						"is",
+						"is_array"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remoce",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"termin",
+						"Preferences: Terminus Key Bindings"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.js",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/accounts.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.css",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Establishments.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Accounts.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/MetaClass.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Product.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/establishments.php",
+				"/M/downloads/sublime_text_4/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/M/downloads/sublime_text_4/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/milto/AppData/Local/Temp/Rar$DIa11256.8809/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"window.TEMPLATE_URL",
+					"abas_menu",
+					"self::getEstablishmentOwnerData",
+					"getEstablishmentOwnerData",
+					"click_load",
+					"s_codes",
+					"code",
+					"OwnerMetaClass",
+					"entity_lsit",
+					"$entitys",
+					"OwnerMetaClass",
+					"account",
+					"OwnerMetaClass",
+					"account",
+					"conta",
+					"$account_codes"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 507.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"main",
+						"admin\\assets\\main.js"
+					],
+					[
+						"esta",
+						"admin\\pages\\establishments.php"
+					],
+					[
+						"acc",
+						"admin\\pages\\accounts.php"
+					],
+					[
+						"acco",
+						"src\\Accounts.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 187.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"st",
+						"style"
+					],
+					[
+						"es",
+						"establishment"
+					],
+					[
+						"acc",
+						"account"
+					],
+					[
+						"array_fil",
+						"array_filter"
+					],
+					[
+						"is_a",
+						"is_array"
+					],
+					[
+						"is",
+						"is_array"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Establishments.php",
+					"settings":
+					{
+						"buffer_size": 7164,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAADEVAAAAAAAAMhUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMRUAAAAAAAAxFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": "set"
+							},
+							"AwAAADEVAAAAAAAAMhUAAAAAAAAAAAAAMhUAAAAAAAAzFQAAAAAAAAAAAAAzFQAAAAAAADQVAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMRUAAAAAAAAxFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert_completion",
+							{
+								"completion": "setEntityMetaData",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "setEntityMetaData"
+							},
+							"AgAAADEVAAAAAAAAMRUAAAAAAAADAAAAc2V0MRUAAAAAAABCFQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANBUAAAAAAAA0FQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAEIVAAAAAAAARBUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQhUAAAAAAABCFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAAEMVAAAAAAAARRUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQxUAAAAAAABDFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"insert",
+							{
+								"characters": "es"
+							},
+							"AgAAAEQVAAAAAAAARRUAAAAAAAAAAAAARRUAAAAAAABGFQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARBUAAAAAAABEFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"insert_completion",
+							{
+								"completion": "establishment",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "establishment"
+							},
+							"AgAAAEQVAAAAAAAARBUAAAAAAAACAAAAZXNEFQAAAAAAAFEVAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARhUAAAAAAABGFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							56,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAFIVAAAAAAAAUxUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUhUAAAAAAABSFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAFMVAAAAAAAAVBUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUxUAAAAAAABTFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"paste",
+							null,
+							"AQAAAFQVAAAAAAAAZhUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVBUAAAAAAABUFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							64,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAAGYVAAAAAAAAZxUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZhUAAAAAAABmFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAGcVAAAAAAAAaBUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZxUAAAAAAABnFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": "\n\n$"
+							},
+							"BgAAAHkQAAAAAAAAehAAAAAAAAAAAAAAehAAAAAAAACCEAAAAAAAAAAAAACCEAAAAAAAAIMQAAAAAAAAAAAAAIMQAAAAAAAAixAAAAAAAAAAAAAAehAAAAAAAAB6EAAAAAAAAAgAAAAgICAgICAgIIMQAAAAAAAAhBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAeRAAAAAAAAB5EAAAAAAAAAAAAAAAeINA"
+						],
+						[
+							68,
+							1,
+							"insert",
+							{
+								"characters": "code"
+							},
+							"BAAAAIQQAAAAAAAAhRAAAAAAAAAAAAAAhRAAAAAAAACGEAAAAAAAAAAAAACGEAAAAAAAAIcQAAAAAAAAAAAAAIcQAAAAAAAAiBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhBAAAAAAAACEEAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							69,
+							1,
+							"insert",
+							{
+								"characters": " ="
+							},
+							"AgAAAIgQAAAAAAAAiRAAAAAAAAAAAAAAiRAAAAAAAACKEAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAiBAAAAAAAACIEAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							70,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAIoQAAAAAAAAixAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAihAAAAAAAACKEAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"cut",
+							null,
+							"AQAAABcRAAAAAAAAFxEAAAAAAAAbAAAAJHVzZXJbJ2VzdGFibGlzaG1lbnRfY29kZSdd",
+							"AQAAAAAAAAABAAAAFxEAAAAAAAAyEQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							81,
+							1,
+							"paste",
+							null,
+							"AQAAAIsQAAAAAAAAphAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAixAAAAAAAACLEAAAAAAAAAAAAAAAEHRA"
+						],
+						[
+							82,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAKYQAAAAAAAApxAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAphAAAAAAAACmEAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							94,
+							1,
+							"paste",
+							null,
+							"AQAAADMRAAAAAAAAOBEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAMxEAAAAAAAAzEQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							101,
+							1,
+							"right_delete",
+							null,
+							"AQAAAP4QAAAAAAAA/hAAAAAAAAA+AAAAICAgICAgICAkbWV0YV9rZXkgICAgICAgICAgICAgICAgICA9ICJlc3RhYmxpc2htZW50X3skY29kZX0iOwo",
+							"AQAAAAAAAAABAAAA/hAAAAAAAAA8EQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							147,
+							1,
+							"paste",
+							null,
+							"AQAAAEIVAAAAAAAARxUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQhUAAAAAAABCFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							150,
+							1,
+							"right_delete",
+							null,
+							"AQAAAEgVAAAAAAAASBUAAAAAAAAsAAAAIHNldFVzZXJNZXRhRGF0YSgkbWV0YV9rZXksICRqc29uX2RhdGFfYWRtKTs",
+							"AQAAAAAAAAABAAAASBUAAAAAAAB0FQAAAAAAAP///////+9/"
+						],
+						[
+							160,
+							1,
+							"right_delete",
+							null,
+							"AQAAALsTAAAAAAAAuxMAAAAAAABvAAAAICAgICAgICAkanNvbl9kYXRhX2FkbSAgID0ganNvbl9lbmNvZGUoJGVzdGFibGlzaG1lbnRfYWRtLCAgIEpTT05fVU5FU0NBUEVEX1NMQVNIRVMgfCBKU09OX1VORVNDQVBFRF9VTklDT0RFKTsK",
+							"AQAAAAAAAAABAAAAuxMAAAAAAAAqFAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							163,
+							8,
+							"swap_line_up",
+							null,
+							"EAAAAGwUAAAAAAAAbBQAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQorFAAAAAAAAJkUAAAAAAAAAAAAACsUAAAAAAAAKxQAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQoqFAAAAAAAAJgUAAAAAAAAAAAAACoUAAAAAAAAKhQAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQq7EwAAAAAAACkUAAAAAAAAAAAAALsTAAAAAAAAuxMAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQq6EwAAAAAAACgUAAAAAAAAAAAAALoTAAAAAAAAuhMAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQo7EwAAAAAAAKkTAAAAAAAAAAAAADsTAAAAAAAAOxMAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQq8EgAAAAAAACoTAAAAAAAAAAAAALwSAAAAAAAAvBIAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQo9EgAAAAAAAKsSAAAAAAAAAAAAAD0SAAAAAAAAPRIAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQriEQAAAAAAAFASAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbBQAAAAAAABsFAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							164,
+							1,
+							"swap_line_up",
+							null,
+							"AgAAAOIRAAAAAAAA4hEAAAAAAABuAAAAICAgICAgICAkcmVzdWx0X2FkbSAgID0gJHRoaXMtPkdsb2JhbE1ldGFDbGFzcy0+c2V0RW50aXR5TWV0YURhdGEoJ2VzdGFibGlzaG1lbnQnLCAkZXN0YWJsaXNobWVudF9hZG0sICRjb2RlKQrhEQAAAAAAAE8SAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA4hEAAAAAAADiEQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							166,
+							1,
+							"insert",
+							{
+								"characters": "             "
+							},
+							"DQAAAPQRAAAAAAAA9REAAAAAAAAAAAAA9REAAAAAAAD2EQAAAAAAAAAAAAD2EQAAAAAAAPcRAAAAAAAAAAAAAPcRAAAAAAAA+BEAAAAAAAAAAAAA+BEAAAAAAAD5EQAAAAAAAAAAAAD5EQAAAAAAAPoRAAAAAAAAAAAAAPoRAAAAAAAA+xEAAAAAAAAAAAAA+xEAAAAAAAD8EQAAAAAAAAAAAAD8EQAAAAAAAP0RAAAAAAAAAAAAAP0RAAAAAAAA/hEAAAAAAAAAAAAA/hEAAAAAAAD/EQAAAAAAAAAAAAD/EQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAARIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9BEAAAAAAAD0EQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							175,
+							1,
+							"right_delete",
+							null,
+							"AQAAABQVAAAAAAAAFBUAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAFBUAAAAAAAAUFQAAAAAAAP///////+9/"
+						],
+						[
+							178,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AgAAABQVAAAAAAAAFRUAAAAAAAAAAAAAFRUAAAAAAAAVFQAAAAAAABgAAAAgICAgICAgICAgICAgICAgICAgICAgICA",
+							"AQAAAAAAAAABAAAAFBUAAAAAAAAsFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							179,
+							1,
+							"left_delete",
+							null,
+							"AQAAABQVAAAAAAAAFBUAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAFRUAAAAAAAAVFQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							202,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAFsSAAAAAAAAXBIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWxIAAAAAAABbEgAAAAAAAP///////+9/"
+						],
+						[
+							229,
+							6,
+							"right_delete",
+							null,
+							"DAAAALAZAAAAAAAAsBkAAAAAAAABAAAAczkQAAAAAAAAORAAAAAAAAABAAAAc68ZAAAAAAAArxkAAAAAAAABAAAAZTkQAAAAAAAAORAAAAAAAAABAAAAZa4ZAAAAAAAArhkAAAAAAAABAAAAbDkQAAAAAAAAORAAAAAAAAABAAAAbK0ZAAAAAAAArRkAAAAAAAABAAAAZjkQAAAAAAAAORAAAAAAAAABAAAAZqwZAAAAAAAArBkAAAAAAAABAAAAOjkQAAAAAAAAORAAAAAAAAABAAAAOqsZAAAAAAAAqxkAAAAAAAABAAAAOjkQAAAAAAAAORAAAAAAAAABAAAAOg",
+							"AQAAAAAAAAACAAAAORAAAAAAAAA5EAAAAAAAAAAAAAAAAPC/sBkAAAAAAACwGQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							230,
+							1,
+							"insert",
+							{
+								"characters": "$this"
+							},
+							"CgAAAKoZAAAAAAAAqxkAAAAAAAAAAAAAORAAAAAAAAA6EAAAAAAAAAAAAACsGQAAAAAAAK0ZAAAAAAAAAAAAADoQAAAAAAAAOxAAAAAAAAAAAAAArhkAAAAAAACvGQAAAAAAAAAAAAA7EAAAAAAAADwQAAAAAAAAAAAAALAZAAAAAAAAsRkAAAAAAAAAAAAAPBAAAAAAAAA9EAAAAAAAAAAAAACyGQAAAAAAALMZAAAAAAAAAAAAAD0QAAAAAAAAPhAAAAAAAAAAAAAA",
+							"AQAAAAAAAAACAAAAORAAAAAAAAA5EAAAAAAAAAAAAAAAAPC/qhkAAAAAAACqGQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							231,
+							1,
+							"insert",
+							{
+								"characters": "->"
+							},
+							"BAAAALQZAAAAAAAAtRkAAAAAAAAAAAAAPhAAAAAAAAA/EAAAAAAAAAAAAAC2GQAAAAAAALcZAAAAAAAAAAAAAD8QAAAAAAAAQBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAACAAAAPhAAAAAAAAA+EAAAAAAAAAAAAAAAAPC/tBkAAAAAAAC0GQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							236,
+							2,
+							"left_delete",
+							null,
+							"AgAAABUbAAAAAAAAFRsAAAAAAAAGAAAAc3RhdGljFBsAAAAAAAAUGwAAAAAAAAEAAAAg",
+							"AQAAAAAAAAABAAAAFRsAAAAAAAAbGwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.css",
+					"settings":
+					{
+						"buffer_size": 4213,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAACMNAAAAAAAAJA0AAAAAAAAAAAAAJA0AAAAAAAAoDQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIw0AAAAAAAAjDQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"paste",
+							null,
+							"AQAAACgNAAAAAAAAOg0AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKA0AAAAAAAAoDQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAPEOAAAAAAAA8g4AAAAAAAAAAAAA8g4AAAAAAAD2DgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA8Q4AAAAAAADxDgAAAAAAAP///////+9/"
+						],
+						[
+							25,
+							1,
+							"paste",
+							null,
+							"AQAAAPYOAAAAAAAACg8AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9g4AAAAAAAD2DgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"cut",
+							null,
+							"AQAAAD4OAAAAAAAAPg4AAAAAAABfAQAACi5hYmFzX21lbnUgYXsKICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgIGNvbG9yOiBibGFjazsKICAgIHBhZGRpbmc6IDZweDsKICAgIGJvcmRlcjogMXB4IHNvbGlkICMyMjcxYjE7CiAgICBib3JkZXItcmFkaXVzOiAzcHg7CiAgICBmb250LXdlaWdodDogYm9sZDsKICAgIGJvcmRlci1ib3R0b206IDBweDsKICAgIHdoaXRlLXNwYWNlOiBub3dyYXA7Cn0KCi5hYmFzX21lbnUgYTpob3ZlciwgLmFiYXNfbWVudV9hY3RpdmV7CiAgICBiYWNrZ3JvdW5kOiAjMjI3MWIxOwogICAgY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7Cn0KCi5hYmFzX2NvbnRhaW5lciBzZWN0aW9uewogICAgcGFkZGluZzogMTBweDsKfQoK",
+							"AQAAAAAAAAABAAAAnQ8AAAAAAAA+DgAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAD4OAAAAAAAAPw4AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPg4AAAAAAAA+DgAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAD0NAAAAAAAAPg0AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPQ0AAAAAAAA9DQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAD0NAAAAAAAAPg0AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPQ0AAAAAAAA9DQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							39,
+							1,
+							"paste",
+							null,
+							"AQAAAD4NAAAAAAAAnQ4AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPg0AAAAAAAA+DQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							2,
+							"left_delete",
+							null,
+							"AgAAAJwOAAAAAAAAnA4AAAAAAAABAAAACpsOAAAAAAAAmw4AAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAnQ4AAAAAAACdDgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"left_delete",
+							null,
+							"AQAAAD0NAAAAAAAAPQ0AAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAPg0AAAAAAAA+DQAAAAAAAAAAAAAAABhA"
+						]
+					]
+				},
+				{
+					"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/accounts.php",
+					"settings":
+					{
+						"buffer_size": 2101,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": " cl"
+							},
+							"AwAAAMgHAAAAAAAAyQcAAAAAAAAAAAAAyQcAAAAAAADKBwAAAAAAAAAAAADKBwAAAAAAAMsHAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAyAcAAAAAAADIBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert_completion",
+							{
+								"completion": "click_load",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "click_load"
+							},
+							"AgAAAMkHAAAAAAAAyQcAAAAAAAACAAAAY2zJBwAAAAAAANMHAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAywcAAAAAAADLBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAPAHAAAAAAAA8QcAAAAAAAAAAAAA8QcAAAAAAAD0BwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA8AcAAAAAAADwBwAAAAAAAP///////+9/"
+						],
+						[
+							13,
+							1,
+							"paste",
+							null,
+							"AQAAAPQHAAAAAAAANAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9AcAAAAAAAD0BwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"cut",
+							null,
+							"AQAAANwHAAAAAAAA3AcAAAAAAAASAAAASW5pY2lhciBOb3ZhIENvbnRh",
+							"AQAAAAAAAAABAAAA7gcAAAAAAADcBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"right_delete",
+							null,
+							"AQAAAHoHAAAAAAAAegcAAAAAAABlAAAACQkJPGlucHV0IHR5cGU9InN1Ym1pdCIgbmFtZT0ic3VibWl0IiBpZD0ic3VibWl0IiBjbGFzcz0iYnV0dG9uIGJ1dHRvbi1wcmltYXJ5IGNsaWNrX2xvYWQiIHZhbHVlPSIiPgo",
+							"AQAAAAAAAAABAAAAegcAAAAAAADfBwAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							29,
+							1,
+							"paste",
+							null,
+							"AgAAAK4HAAAAAAAAwAcAAAAAAAAAAAAAwAcAAAAAAADABwAAAAAAAAYAAABlbnZpYXI",
+							"AQAAAAAAAAABAAAAtAcAAAAAAACuBwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.js",
+					"redo_stack":
+					[
+						[
+							84,
+							1,
+							"insert_snippet",
+							{
+								"contents": "'$0'"
+							},
+							"AQAAALo0AAAAAAAAujQAAAAAAAACAAAAJyc",
+							"AQAAAAAAAAABAAAAuzQAAAAAAAC7NAAAAAAAAAAAAAAAAPC/"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 15901,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"BgAAAKUzAAAAAAAApjMAAAAAAAAAAAAApjMAAAAAAACuMwAAAAAAAAAAAACuMwAAAAAAALIzAAAAAAAAAAAAALIzAAAAAAAAszMAAAAAAAAAAAAAszMAAAAAAAC/MwAAAAAAAAAAAACmMwAAAAAAAKYzAAAAAAAADAAAACAgICAgICAgICAgIA",
+							"AQAAAAAAAAABAAAApTMAAAAAAAClMwAAAAAAAP///////+9/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AgAAAKYzAAAAAAAApzMAAAAAAAAAAAAAqDMAAAAAAACoMwAAAAAAAAwAAAAgICAgICAgICAgICA",
+							"AQAAAAAAAAABAAAApjMAAAAAAACmMwAAAAAAAAAAAAAAQFJA"
+						],
+						[
+							26,
+							1,
+							"reindent",
+							null,
+							"AQAAAKczAAAAAAAAszMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApzMAAAAAAACnMwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "log"
+							},
+							"AwAAALMzAAAAAAAAtDMAAAAAAAAAAAAAtDMAAAAAAAC1MwAAAAAAAAAAAAC1MwAAAAAAALYzAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAszMAAAAAAACzMwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"insert_completion",
+							{
+								"completion": "console.log('${1:this}', ${1:this});",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "log"
+							},
+							"AgAAALMzAAAAAAAAszMAAAAAAAADAAAAbG9nszMAAAAAAADNMwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtjMAAAAAAAC2MwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"paste",
+							null,
+							"BAAAAMczAAAAAAAA2jMAAAAAAAAAAAAA2jMAAAAAAADaMwAAAAAAAAQAAAB0aGlzwDMAAAAAAADTMwAAAAAAAAAAAADTMwAAAAAAANMzAAAAAAAABAAAAHRoaXM",
+							"AQAAAAAAAAACAAAAwDMAAAAAAADEMwAAAAAAAAAAAAAAAPC/xzMAAAAAAADLMwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "\n\nlog"
+							},
+							"CAAAAOszAAAAAAAA7DMAAAAAAAAAAAAA7DMAAAAAAAD4MwAAAAAAAAAAAAD4MwAAAAAAAPkzAAAAAAAAAAAAAPkzAAAAAAAABTQAAAAAAAAAAAAA7DMAAAAAAADsMwAAAAAAAAwAAAAgICAgICAgICAgICD5MwAAAAAAAPozAAAAAAAAAAAAAPozAAAAAAAA+zMAAAAAAAAAAAAA+zMAAAAAAAD8MwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA6zMAAAAAAADrMwAAAAAAAP///////+9/"
+						],
+						[
+							40,
+							1,
+							"insert_completion",
+							{
+								"completion": "console.log('${1:this}', ${1:this});",
+								"format": "snippet",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "log"
+							},
+							"AgAAAPkzAAAAAAAA+TMAAAAAAAADAAAAbG9n+TMAAAAAAAATNAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/DMAAAAAAAD8MwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"paste",
+							null,
+							"BAAAAA00AAAAAAAAETQAAAAAAAAAAAAAETQAAAAAAAARNAAAAAAAAAQAAAB0aGlzBjQAAAAAAAAKNAAAAAAAAAAAAAAKNAAAAAAAAAo0AAAAAAAABAAAAHRoaXM",
+							"AQAAAAAAAAACAAAABjQAAAAAAAAKNAAAAAAAAAAAAAAAAPC/DTQAAAAAAAARNAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							3,
+							"swap_line_down",
+							null,
+							"BgAAAFgzAAAAAAAA1DMAAAAAAAAAAAAA2zIAAAAAAADbMgAAAAAAAHwAAAAgICAgbGV0IGxvYWQgPSBgPGltZyBzcmM9IiR7d2luZG93LlRFTVBMQVRFX1VSTH0vYXNzZXRzL2ltZy9sb2FkaW5nLnN2ZyIgYWx0PSIiIHN0eWxlPSJ3aWR0aDogMjBweDttYXJnaW4tYm90dG9tOiAtNXB4OyI+YDsKbjMAAAAAAADqMwAAAAAAAAAAAADcMgAAAAAAANwyAAAAAAAAfAAAACAgICBsZXQgbG9hZCA9IGA8aW1nIHNyYz0iJHt3aW5kb3cuVEVNUExBVEVfVVJMfS9hc3NldHMvaW1nL2xvYWRpbmcuc3ZnIiBhbHQ9IiIgc3R5bGU9IndpZHRoOiAyMHB4O21hcmdpbi1ib3R0b206IC01cHg7Ij5gOwqmMwAAAAAAACI0AAAAAAAAAAAAAPIyAAAAAAAA8jIAAAAAAAB8AAAAICAgIGxldCBsb2FkID0gYDxpbWcgc3JjPSIke3dpbmRvdy5URU1QTEFURV9VUkx9L2Fzc2V0cy9pbWcvbG9hZGluZy5zdmciIGFsdD0iIiBzdHlsZT0id2lkdGg6IDIwcHg7bWFyZ2luLWJvdHRvbTogLTVweDsiPmA7Cg",
+							"AQAAAAAAAAABAAAA2zIAAAAAAADbMgAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": "\t\t"
+							},
+							"AgAAACozAAAAAAAALjMAAAAAAAAAAAAALjMAAAAAAAAyMwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKjMAAAAAAAAqMwAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							67,
+							2,
+							"right_delete",
+							null,
+							"AgAAAK8zAAAAAAAArzMAAAAAAABtAAAAICAgICAgICAgICAgY29uc29sZS5sb2coJ3dpbmRvdy5URU1QTEFURV9VUkwnLCB3aW5kb3cuVEVNUExBVEVfVVJMKTsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2FkJywgbG9hZCk7Cq8zAAAAAAAArzMAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAArzMAAAAAAAAcNAAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				},
+				{
+					"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/establishments.php",
+					"settings":
+					{
+						"buffer_size": 2382,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remoce",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"termin",
+						"Preferences: Terminus Key Bindings"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src"
+			],
+			"file_history":
+			[
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Accounts.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/accounts.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Establishments.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/MetaClass.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Product.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/establishments.php",
+				"/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.js",
+				"/M/downloads/sublime_text_4/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/M/downloads/sublime_text_4/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/milto/AppData/Local/Temp/Rar$DIa11256.8809/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"window.TEMPLATE_URL",
+					"abas_menu",
+					"self::getEstablishmentOwnerData",
+					"getEstablishmentOwnerData",
+					"click_load",
+					"s_codes",
+					"code",
+					"OwnerMetaClass",
+					"entity_lsit",
+					"$entitys",
+					"OwnerMetaClass",
+					"account",
+					"OwnerMetaClass",
+					"account",
+					"conta",
+					"$account_codes"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\wp-theme-dmmenu"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/src/Establishments.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7164,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6932,
+										6932
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1803.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4213,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3692,
+										3692
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2383.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/accounts.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2101,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1984,
+										1984
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 390.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/assets/main.js",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15901,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13498,
+										13498
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5475.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/xampp/htdocs/wordpress/wp-content/themes/wp-theme-dmmenu/admin/pages/establishments.php",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2382,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2300,
+										2364
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 3,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 546.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 507.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,2,-32000,-32000,-1,-1,814,155,155,971,eef5d7971e35be4881952aec67c1db34",
+			"project": "",
+			"replace":
+			{
+				"height": 40.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"main",
+						"admin\\assets\\main.js"
+					],
+					[
+						"esta",
+						"admin\\pages\\establishments.php"
+					],
+					[
+						"acc",
+						"admin\\pages\\accounts.php"
+					],
+					[
+						"acco",
+						"src\\Accounts.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 187.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
