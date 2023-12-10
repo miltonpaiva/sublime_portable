@@ -7,4 +7,6 @@
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Dark Crayon.sublime-color-scheme",
 	"word_wrap": false,
+	"show_full_path": false,
+	"index_files": true,
 }
